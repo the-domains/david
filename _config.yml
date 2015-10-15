@@ -1,6 +1,6 @@
 name: David
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.8
 title: "David's Grid"
 cta:
   domain: null
@@ -20,7 +20,4 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: shares
-    item: null
-    url: null
+purpose: []
