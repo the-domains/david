@@ -1,7 +1,6 @@
 name: David
 favicon: null
-layout_spectrum: 0.01429
-title: "David's Grid"
+layout_spectrum: 0
 cta:
   domain: null
   bucket: null
