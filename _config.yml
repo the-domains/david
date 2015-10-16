@@ -1,6 +1,6 @@
 name: David
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.5590808924753219
 title: DaGrid
 cta:
   domain: null
@@ -21,3 +21,4 @@ color:
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
+typography_spectrum: 0.9142153027933091
